@@ -4,3 +4,8 @@
 * Database: MongoDB for flexibility with data structures
 * Authentication: JWT (JSON Web Tokens) for secure user and vendor authentication
 * API: RESTful API for frontend-backend communication
+
+## Deployment Strategy:
+* The application will be containerized using Docker.
+* Initial deployment will be simple, scaling up with the project's progress.
+  
