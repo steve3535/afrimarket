@@ -1,6 +1,13 @@
-# Afrimarket: le marché digital
-la plateforme met en relation les vendeurs/vendeuses du marché et leurs clients.  
-C'est un micro shopify qui mime un vrai marché.  
-chaque vendeur/vendeuse aura son shop sur le site pour y exposer son étalage de produits.  
+# Web Application Overview: Digital Marketplace for African Cities
+## Concept:
+**Application Name**: "AfriMarket"   
+  Purpose: To digitally represent and facilitate the bustling and vibrant marketplace experience found in numerous African cities.  
+  This platform will allow local vendors to create digital storefronts, list products, and interact with customers.
 
-## Features
+**Features**:  
+* Vendor Registration and Management: Vendors can register, create profiles, and manage their digital storefronts.
+* Product Catalog: Each vendor can list their products, complete with descriptions, prices, and images.
+* Search and Filter: Users can search for products and filter results by categories, price, vendor ratings, etc.
+* Shopping Cart and Checkout Process: Standard e-commerce functionality for users to make purchases.
+* Ratings and Reviews: Users can rate vendors and review products.
+  
