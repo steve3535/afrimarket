@@ -1,5 +1,5 @@
 # Web Application Overview: Digital Marketplace for African Cities
-## Concept:
+
 **Application Name**: "AfriMarket"   
   Purpose: To digitally represent and facilitate the bustling and vibrant marketplace experience found in numerous African cities.  
   This platform will allow local vendors to create digital storefronts, list products, and interact with customers.
