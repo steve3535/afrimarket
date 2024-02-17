@@ -2,8 +2,10 @@
 
 1. Créee un répertoire pour le projet, du nom de afrimarket par exemple.
    ```
-   mkdir afrimarket
-   ```
+   mkdir afriMarket
+   cd afriMarket
+   ```  
+
 2. Initialise le projet avec:
    ```
    npm init -y
