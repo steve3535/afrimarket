@@ -4,9 +4,17 @@
    ```
    mkdir afrimarket
    ```
-3. Initialise le projet avec:
+2. Initialise le projet avec:
    ```
    npm init -y
    ```
+   > npm (nodejs package manager) est le gestionnaire de paquets pour Node.
+   > C'est l'équivalent d'un rpm (redhat) ou d'un apt (ubuntu), ou mieux d'un pip (python)
+   
+3. Installe express (un framework web pour nodejs)
+   ```
+   npm install express
+   ```
+5. 
    
 
